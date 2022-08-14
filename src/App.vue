@@ -1,5 +1,8 @@
 <template>
-  <h1>gitの紹介</h1>
+  <div>
+    <h1>gitの紹介</h1>
+    <div>たかひろ参上</div>
+  </div>
 </template>
 
 <script>
