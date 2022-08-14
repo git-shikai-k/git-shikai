@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>gitの紹介</h1>
-    <div>たかひろ参上</div>
+    <h1>Gitの紹介</h1>
+    <div>初回Pushするよ</div>
   </div>
 </template>
 
