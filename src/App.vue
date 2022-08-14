@@ -2,6 +2,7 @@
   <div>
     <h1>Gitの紹介</h1>
     <div>初回Pushするよ</div>
+    <div>たかひろ参上！</div>
   </div>
 </template>
 
